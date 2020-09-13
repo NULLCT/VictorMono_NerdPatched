@@ -1,6 +1,7 @@
-# VictorMono with Nerd Font
+# VictorMono NF
 
 VictorMono patched Nerd Font
+Made from fontforge
 
 ## Feature
 - add Japanese character
