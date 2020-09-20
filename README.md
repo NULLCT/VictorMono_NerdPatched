@@ -1,4 +1,4 @@
-# VictorMono NF
+# VictorMono Nerd Font
 
 VictorMono patched Nerd Font
 Made from fontforge
